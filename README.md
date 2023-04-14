@@ -1,4 +1,4 @@
 # JenosizeReactNativeApp
 
-yarn 
+yarn \m
 yarn android
