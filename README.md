@@ -1,0 +1,4 @@
+# JenosizeReactNativeApp
+
+yarn 
+yarn android
